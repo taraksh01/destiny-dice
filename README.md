@@ -23,7 +23,7 @@ If you want to run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/destiny-dice.git
+git clone https://github.com/taraksh01/destiny-dice.git
 
 # Install dependencies
 npm install
